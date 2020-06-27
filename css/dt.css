@@ -1,0 +1,42 @@
+
+#dung{
+
+	background-image: url(../image/pen.jfif);
+	 border-style: double  ;
+           border-color: solid black;
+           width: 30%;
+
+}
+ul{
+	text-decoration: underline;
+	color: blue;
+}
+#tg{
+	text-decoration: underline;
+	color: purple;
+	
+	padding-left: 5px;
+}
+#te{
+	
+	padding-left:  5px;
+}
+p{
+	text-decoration: underline;
+	color: blue;
+	text-align: right;
+	padding: 2px;
+	text-align: left;
+	
+}
+
+h3{
+	color: red;
+}
+#tj{
+	text-align: right;
+}
+
+.p1{
+	text-align: left;
+}

@@ -1,0 +1,13 @@
+h3{
+	text-align: center;
+	color: red;
+}
+.tn{
+	color: blue;
+	font-weight: bold;
+}
+.tb{
+	border: 2px solid black;
+	width: 40%;
+
+}

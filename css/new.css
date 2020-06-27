@@ -1,0 +1,27 @@
+#n{
+	margin-left: 48px;
+	color: black;
+
+}
+body{
+	width: 50%;
+	border: 1px solid black;
+	size: both;
+}
+h2{
+	text-align: center;
+	color: blue;
+}
+#n3{
+	padding-left: 20px;
+	width: 150px;
+	height: 100px;
+}
+.nhung{
+	background-color: white;
+	overflow: auto;
+}
+.content{
+	padding-left: 10px;
+	padding-bottom: 5px;
+}

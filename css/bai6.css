@@ -1,0 +1,23 @@
+
+
+h3{
+	color: red;
+	text-align: center;
+
+}
+.tn{
+	color: blue;
+	
+}
+.tb{
+	border: 1px solid black;
+	width: 40%;
+}
+
+#td{
+	color: red;
+	padding-left: 2px;
+}
+#tf{
+	color: purple;
+}
