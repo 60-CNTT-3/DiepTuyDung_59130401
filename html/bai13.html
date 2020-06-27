@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title></title>
+	<style type="text/css">
+		h3{
+			text-align: center;
+		}
+		#we{
+			 border-style: double  ;
+           border-color: solid black;
+           width: 30%;		}
+
+
+	</style>
+</head>
+<body>
+	<div id="we">
+		<h3>Phiếu thăm dò ý kiến</h3>
+	
+		<form action="form_action.php" method="get"> 
+			
+				<label for="name">Tên đăng nhập:</label> 
+				<input type="text"   /> 
+				<input type="radio" name="sex" value="male" checked="checked"/> Nam
+				<input type="radio" name="sex" value="female"/> Nữ
+			
+				<p>Những mục bạn thường quan tâm trên Internet</p>
+		<div style="position:relative; left: 20%;">
+			<input type="checkbox" name="bike" />Tin tức  <br> 
+			<input type="checkbox" name="car"/>Giải trí <br> 
+			<input type="checkbox" name="bike" />Góc học tập  <br> 
+			<input type="checkbox" name="car"/>Các muc khác<br>
+			<input type="submit" value="Gửi đi" id="submit"  />
+			<input type="submit" value="Phục hồi" id="submit"/>
+		</div>
+				
+			
+		</form> 
+
+	</div>
+	
+	
+
+
+
+</body>
+</html>
